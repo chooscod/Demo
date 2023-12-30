@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  
+}
+
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+ 
+}
+
+#myTable th{
+  color: aliceblue;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #6a909c;
+}
+</style>
+</head>
+<body>
+
+<h2>Editing Tools</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Tool Name</th>
+    <th style="width:40%;">Tool Link</th>
+  </tr>
+  <tr>
+    <td>Reduce image size</td>
+    <td><a href="https://www.reduceimages.com/">Click here</a></td>
+  </tr>
+  <tr>
+    <td>Reduce Pdf size</td>
+    <td><a href="https://www.ilovepdf.com/compress_pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>jpg-pdf converter</td>
+    <td><a href="https://www.ilovepdf.com/jpg_to_pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>png-pdf converter</td>
+    <td><a href="https://png2pdf.com/">Click here</a></td>
+  </tr> <tr>
+    <td>Merge image</td>
+    <td><a href="https://pinetools.com/merge-images">Click here</a></td>
+  </tr>
+  </tr> 
+  <tr>
+    <td>Merge pdf</td>
+    <td><a href="https://www.ilovepdf.com/merge_pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>word-pdf</td>
+    <td><a href="https://www.ilovepdf.com/word_to_pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>pdf-word</td>
+    <td><a href="https://www.ilovepdf.com/pdf_to_word">Click here</a></td>
+  </tr>
+  <tr>
+    <td>edit pdf</td>
+    <td><a href="https://www.ilovepdf.com/edit-pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>html-pdf</td>
+    <td><a href="https://www.ilovepdf.com/html-to-pdf">Click here</a></td>
+  </tr>
+  <tr>
+    <td>pdf-jpg</td>
+    <td><a href="https://www.ilovepdf.com/pdf_to_jpg">Click here</a></td>
+  </tr>
+  <tr>
+    <td>Psc photo editor</td>
+    <td><a href="https://www.keralapscnotifications.com/thulasi.php">Click here</a></td>
+  </tr>
+  <tr>
+    <td>Psc sign editor</td>
+    <td><a href="https://www.keralapscnotifications.com/thulasi.php">Click here</a></td>
+  </tr>
+  <tr>
+    <td>SSC CHL photo editor</td>
+    <td><a href="https://formphotoeditor.com/form/ssc-chsl_photo_resizer">Click here</a></td>
+  </tr>
+  <tr>
+    <td>SSC CGL photo editor</td>
+    <td><a href="https://formphotoeditor.com/form/ssc-cgl_photo_resizer">Click here</a></td>
+  </tr>
+  <tr>
+   <td>SSC CGL sign editor</td>
+    <td><a href="https://photoresizer.net/form/ssc-cgl-signature-resizer">Click here</a></td>
+  </tr>
+  <tr>
+   <td>Land Converter</td>
+    <td><a href="https://arun-goog.github.io/cscMavinthai/">Click here</a></td>
+  </tr>
+  
+</table>
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+</body>
+</html>

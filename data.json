@@ -1,0 +1,576 @@
+[
+    {
+      "id": 1,
+      "name": "PSC OneTime",
+      "email": "https://thulasi.psc.kerala.gov.in/thulasi/"
+      
+    },
+    {
+      "id": 2,
+      "name": "Building Tax/Property Tax",
+      "email": "https://tax.lsgkerala.gov.in/epayment/QuickPaySearch.php"
+      
+    },
+    {
+      "id": 3,
+      "name": "Ownership Certificate",
+      "email": "https://tax.lsgkerala.gov.in/epayment/propertyTaxSearchNew.php"
+      
+    },
+    {
+      "id": 4,
+      "name": "KSEB New Connection",
+      "email": "https://wss.kseb.in/selfservices/ncsLogin.do"
+      
+    },
+    {
+      "id": 5,
+      "name": "Sabarimala Booking (Virtual Queue)",
+      "email": "https://sabarimalaonline.org/#/register"
+      
+    },
+    {
+      "id": 6,
+      "name": "Employment Registration ",
+      "email": "https://eemployment.kerala.gov.in/usr/logins/jobseeker"
+      
+    },
+    {
+      "id": 7,
+      "name": "Land Tax",
+      "email": "https://revenue.kerala.gov.in/"
+      
+    },
+    {
+      "id": 8,
+      "name": "SSC Registration",
+      "email": "https://ssc.nic.in/"
+      
+    },
+    {
+      "id": 9,
+      "name": "Pancard Aadhaar Linking",
+      "email": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar"
+      
+    },
+    {
+      "id": 10,
+      "name": "Speed Post Tracking",
+      "email": "https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx"
+      
+    },
+    {
+      "id": 11,
+      "name": "Rationcard Services",
+      "email": "https://ecitizen.civilsupplieskerala.gov.in/index.php/c_login"
+      
+    },
+    {
+      "id": 12,
+      "name": "Special Permit for Taxi",
+      "email": "https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml?statecd=Mzc2MzM2MzAzNjY0MzIzODM3NjIzNjY0MzY2MjM3NGI0Yw=="
+      
+    },
+    {
+      "id": 13,
+      "name": "Passport",
+      "email": "https://www.passportindia.gov.in/AppOnlineProject/welcomeLink#"
+      
+    },
+    {
+      "id": 14,
+      "name": "AIMS Registration",
+      "email": "https://www.aims.kerala.gov.in/cropinsurance"
+      
+    },
+    {
+      "id": 15,
+      "name": "PM Kisan New Farmer Registration",
+      "email": "https://pmkisan.gov.in/registrationformnew.aspx"
+      
+    },
+    {
+      "id": 16,
+      "name": "PM Kisan E-kyc",
+      "email": "https://exlink.pmkisan.gov.in/aadharekyc.aspx"
+      
+    },
+    {
+      "id": 17,
+      "name": "KTET Application",
+      "email": "https://ktet.kerala.gov.in/Registration/exam_registration_instructions.php"
+      
+    },
+    {
+      "id": 18,
+      "name": "NEET Applicantion",
+      "email": "https://neet.nta.nic.in/"
+      
+    },
+    {
+      "id": 19,
+      "name": "Encumbrance (Kudikadam)",
+      "email": "https://pearl.registration.kerala.gov.in/index.php"
+      
+    },
+    {
+      "id": 20,
+      "name": "Birth/Death/  Marriage Certificate Download Corporation",
+      "email": "https://cr.lsgkerala.gov.in/RegSearch.php"
+      
+    },
+    {
+      "id": 21,
+      "name": "Vehicle kshemanidhi",
+      "email": "https://epay.kmtwwfb.org/kmtepay/relaxation/otphome.php"
+      
+    },
+    {
+      "id": 22,
+      "name": "Kerala water authority bill payment",
+      "email": "https://epay.kwa.kerala.gov.in/quickpay"
+      
+    },
+    {
+      "id": 23,
+      "name": "Police clearance certificate (PCC)",
+      "email": "https://thuna.keralapolice.gov.in/"
+      
+    },
+    {
+      "id": 24,
+      "name": "Kerala tailoring works welfare fund board/Tailors kshemanidhi",
+      "email": "https://www.tailorwelfare.in/"
+      
+    },
+    {
+      "id": 25,
+      "name": "Medisep Download ",
+      "email": "https://medisepkerala.com/"
+      
+    },
+    {
+      "id": 26,
+      "name": "Medisep status check",
+      "email": "https://medisep.kerala.gov.in/SearchUser1.jsp?direct"
+      
+    },
+    {
+      "id": 27,
+      "name": "GDS",
+      "email": "https://indiapostgdsonline.gov.in/"
+      
+    },
+    {
+      "id": 28,
+      "name": "Sevsana Pension",
+      "email": "https://welfarepension.lsgkerala.gov.in/Web_efileReg.aspx"
+      
+    },
+    {
+      "id": 29,
+      "name": "Employment Exchange Registration",
+      "email": "https://eemployment.kerala.gov.in/usr/logins/jobseeker"
+      
+    },
+    {
+      "id": 30,
+      "name": "Employment Exchange Renewal",
+      "email": "https://eemployment.kerala.gov.in/pub/publicProcess/renewal"
+      
+    },
+    {
+      "id": 31,
+      "name": "Pravasi Kshemanidhi New registration",
+      "email": "https://register.pravasikerala.org/public/index.php/online/PublicLogin"
+      
+    },
+    {
+      "id": 32,
+      "name": "Pravasi Kshemanidhi Login",
+      "email": "ttps://register.pravasikerala.org/public/index.php/online/PublicLogin"
+      
+    },
+    {
+      "id": 33,
+      "name": "Pravasi Kshemanidhi Payment",
+      "email": "ttps://register.pravasikerala.org/public/index.php/online/PublicLogin"
+      
+    },
+    {
+      "id": 34,
+      "name": "Pancard Instant",
+      "email": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan/getNewEpan"
+      
+    },
+    {
+      "id": 35,
+      "name": "Sevsana Pension",
+      "email": "https://welfarepension.lsgkerala.gov.in/Web_efileReg.aspx"
+      
+    },
+    {
+      "id": 36,
+      "name": "Vehicle Fine E challan",
+      "email": "https://echallan.parivahan.gov.in/index/accused-challan"
+      
+    },
+    {
+      "id": 37,
+      "name": "Birth/Death/ Marriage Certificate Download Panchayath",
+      "email": "https://cr.lsgkerala.gov.in/RegSearch.php"
+      
+    },
+    {
+      "id": 38,
+      "name": "Birth/Death/ Marriage Certificate Registration Panchayath",
+      "email": "https://cr.lsgkerala.gov.in/RegSearch.php"
+      
+    },
+    {
+      "id": 40,
+      "name": "Vehicle Fine E challan",
+      "email": "https://echallan.parivahan.gov.in/index/accused-challan"
+      
+    },
+    {
+      "id": 41,
+      "name": "KSRTC Ticket Booking",
+      "email": "https://online.keralartc.com/oprs-web/"
+      
+    },
+    {
+      "id": 42,
+      "name": "KSRTC Swift Ticket Booking",
+      "email": "https://onlineksrtcswift.com/"
+      
+    },
+    {
+      "id": 43,
+      "name": "Pancard Aadhaar Link Status",
+      "email": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status"
+      
+    },
+    {
+      "id": 44,
+      "name": "Food safety (fssai)",
+      "email": "https://foscos.fssai.gov.in/apply-for-lic-and-reg"
+      
+    },{
+      "id": 45,
+      "name": "Tharammattam, Pokkuvaravu, Thandapper, Location map",
+      "email": "https://revenue.kerala.gov.in/"
+      
+    },
+    {
+      "id": 46,
+      "name": "PM Kisan Beneficiary Status check",
+      "email": "https://pmkisan.gov.in/BeneficiaryStatus_New.aspx"
+      
+    } 
+    ,
+    {
+      "id": 47,
+      "name": "My Aadhaar",
+      "email": "https://myaadhaar.uidai.gov.in/"
+      
+    },
+    {
+      "id": 48,
+      "name": "E Aadhaar",
+      "email": "https://myaadhaar.uidai.gov.in/"
+      
+    },
+    {
+      "id": 49,
+      "name": "Aadhaar pvc",
+      "email": "https://myaadhaar.uidai.gov.in/"
+      
+    },
+    {
+      "id": 50,
+      "name": "Aadhaar updates",
+      "email": "https://myaadhaar.uidai.gov.in/"
+      
+    },
+    {
+      "id": 51,
+      "name": "Aadhaar updates",
+      "email": "https://myaadhaar.uidai.gov.in/"
+      
+    },
+    {
+      "id": 52,
+      "name": "Arogya Insurance",
+      "email": "https://beneficiary.nha.gov.in/"
+      
+    },
+    {
+      "id": 53,
+      "name": "Egrantz Onetime Registration",
+      "email": "https://egrantz.kerala.gov.in/Registration/onetime_reg"
+      
+    },
+    {
+      "id": 54,
+      "name": "Egrantz Track Application",
+      "email": "https://egrantz.kerala.gov.in/Registration/search_application_stat"
+      
+    },
+    {
+      "id": 55,
+      "name": "Egrantz Students Login",
+      "email": "https://egrantz.kerala.gov.in/Registration/index"
+      
+    },
+    {
+      "id": 56,
+      "name": "Udyam Registrion",
+      "email": "https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm"
+      
+    },
+    {
+      "id": 57,
+      "name": "Mike permission",
+      "email": "https://thuna.keralapolice.gov.in/home"
+      
+    },
+    {
+      "id": 58,
+      "name": "Police clearance certificate (PCC) for Outside ",
+      "email": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink#"
+      
+    },
+    {
+      "id": 59,
+      "name": "Driving licence related ",
+      "email": "https://sarathi.parivahan.gov.in/sarathiservice/stateSelectBean.do"
+      
+    },
+    {
+      "id": 60,
+      "name": "Voters ID ",
+      "email": "https://voters.eci.gov.in/Homepage"
+      
+    },
+    {
+      "id": 61,
+      "name": "Edistrict ",
+      "email": "https://edistrict.kerala.gov.in/"
+      
+    },
+    {
+      "id": 62,
+      "name": "Virtual Court ",
+      "email": "https://vcourts.gov.in/virtualcourt/"
+      
+    },
+    {
+      "id": 63,
+      "name": "Edistrict Application Status ",
+      "email": "https://edistrict.kerala.gov.in/openSearch.do?openStat=openSearch&lang=en"
+      
+    },
+    {
+      "id": 64,
+      "name": "Arogya Insurance card",
+      "email": "https://bis.pmjay.gov.in/BIS/mobileverify"
+      
+    },
+    {
+      "id": 65,
+      "name": "health ID ABHA",
+      "email": "https://healthid.ndhm.gov.in/"
+      
+    },
+    {
+      "id": 66,
+      "name": "NMMS",
+      "email": "http://nmmse.kerala.gov.in/"
+      
+    },
+    {
+      "id": 67,
+      "name": "Labour Renewal Payment",
+      "email": "https://lcas.lc.kerala.gov.in/office/registration/onlinerenewal_online_pay.php"
+      
+    },
+    {
+      "id": 68,
+      "name": "Labour Service",
+      "email": "https://www.lc.kerala.gov.in/"
+      
+    },
+    {
+      "id": 69,
+      "name": "CSC",
+      "email": "https://csc.gov.in/"
+      
+    },
+    {
+      "id": 70,
+      "name": "CSC SPV",
+      "email": "https://cscspv.in/"
+      
+    },
+    {
+      "id": 71,
+      "name": "CSC Digitalseva",
+      "email": "https://digitalseva.csc.gov.in/"
+      
+    },
+    {
+      "id": 72,
+      "name": "CSC Register Cloud",
+      "email": "https://cscregister.csccloud.in/"
+      
+    },
+    {
+      "id": 73,
+      "name": "CSC Digipay",
+      "email": "https://digipay.csccloud.in/"
+      
+    },
+    {
+      "id": 74,
+      "name": "CSC Diginame",
+      "email": "https://www.diginame.in/"
+      
+    },
+    {
+      "id": 75,
+      "name": "CSC Pmgdisha",
+      "email": "https://www.pmgdisha.in/"
+      
+    },
+    {
+      "id": 76,
+      "name": "CSC Health",
+      "email": "http://cschealth.in/"
+      
+    },
+    {
+      "id": 77,
+      "name": "CSC Bankmitra",
+      "email": "https://cscbankmitra.in/"
+      
+    },
+    {
+      "id": 78,
+      "name": "CSC Culturemap",
+      "email": "https://www.culturemap.in/"
+      
+    },
+    {
+      "id": 79,
+      "name": "CSC Estore",
+      "email": "https://cscestore.in/"
+      
+    },
+    {
+      "id": 80,
+      "name": "CSC Telelaw",
+      "email": "https://www.tele-law.in/"
+      
+    },
+    {
+      "id": 81,
+      "name": "CSC Agri",
+      "email": "https://www.cscagri.in/fpo/index"
+      
+    },
+    {
+      "id": 82,
+      "name": "CSC Eseva Evehicle",
+      "email": "https://eseva.csccloud.in/evehicle/Default.aspx"
+      
+    },
+    {
+      "id": 83,
+      "name": "CSC Academy",
+      "email": "https://www.cscacademy.org/"
+      
+    },
+    {
+      "id": 84,
+      "name": "CSC Balvidyalaya",
+      "email": "https://www.cscbalvidyalaya.com/"
+      
+    },
+    {
+      "id": 85,
+      "name": "CSC Digipaathshala",
+      "email": "https://digipaathshala.cscacademy.org/"
+      
+    },
+    {
+      "id": 86,
+      "name": "CSC Safar",
+      "email": "https://cscsafar.in/"
+      
+    },
+    {
+      "id": 87,
+      "name": "CSC SkillServices",
+      "email": "https://skill.csc-services.in/"
+      
+    },
+    {
+      "id": 88,
+      "name": "CSC Dakmitra",
+      "email": "https://dakmitra.csccloud.in/"
+      
+    },
+    {
+      "id": 89,
+      "name": "CSC Olympiad",
+      "email": "https://cscolympiad.org/cscolympiad/index.html"
+      
+    },
+    {
+      "id": 90,
+      "name": "CSC Streeswabhiman",
+      "email": "https://streeswabhiman.in/"
+      
+    },
+    {
+      "id": 91,
+      "name": "CSC Entrepreneur",
+      "email": "https://cscentrepreneur.in/"
+      
+    },
+    {
+      "id": 92,
+      "name": "CSC Insurance",
+      "email": "https://insurance.csccloud.in/"
+      
+    },
+    {
+      "id": 93,
+      "name": "CSC Graminnaukri",
+      "email": "https://cscgraminnaukri.in/gn/"
+      
+    },
+    {
+      "id": 94,
+      "name": "CSC Gjsp",
+      "email": "https://cscgjsp.in/about-csc"
+      
+    },
+    {
+      "id": 95,
+      "name": "CSC Gjsp",
+      "email": "https://cscgjsp.in/about-csc"
+      
+    },
+    {
+      "id": 96,
+      "name": "CSC Ecourt",
+      "email": "https://services.csccloud.in/ecourt/Default.aspx#"
+      
+    }
+    
+    
+    
+    
+  ]
